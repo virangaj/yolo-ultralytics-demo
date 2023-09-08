@@ -1,4 +1,4 @@
-path: F:/AI ML DL Projects/Supports/Yolo object detection/dataset/data
+path: /home/cs304/s17391/yolo-demo/yolo-ultralytics-demo/dataset/data
 train: images/train
 val: images/val
 
